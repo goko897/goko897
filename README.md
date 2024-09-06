@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 <br>
 
-**I am Janvi Singh, student learning cybersecurity, cyberops, computer networks, deep learning, Web3-blockchain**
+**I am Janvi Singh, proud woman-in-Tech!!**
 
 - 🔭 I’m currently working on multiple projects, hackathons.
-- 🌱 I’m currently learning cyberops, blockchain techonology
-- 👯 I’m looking to collaborate on cryptography, machine learning and deep learning projects
-- 🤔 I’m looking for help with blockchain and communication techonolgies 
-- 💬 Always open for discussions on technical, marketing and general awareness topics 
+- 🌱 I’m currently learning cyberops, blockchain techonology, cyberops, computer networks, deep learning.
+- 👯 I’m looking to collaborate on cryptography, machine learning and deep learning projects.
+- 🤔 I’m looking for help with blockchain and communication techonolgies.
+- 💬 Always open for discussions on technical, marketing and general awareness topics.
 - 😄 Pronouns: She/her
 
 ## For recruiters:

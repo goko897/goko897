@@ -4,10 +4,8 @@
 
 **I am Janvi Singh, from India**
 
-- 🔭 I’m currently working on multiple projects, hackathons.
 - 🌱 I’m currently learning cyberops, blockchain techonology, cyberops, computer networks, deep learning.
 - 👯 I’m looking to collaborate on cryptography, machine learning and deep learning projects.
-- 🤔 I’m looking for help with blockchain and communication techonolgies.
 - 💬 Always open for discussions on technical, marketing and general awareness topics.
 - 😄 Pronouns: She/her
 

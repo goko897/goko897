@@ -19,7 +19,7 @@
 
 
 ## For recruiters:
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1w0chatm4Bae-3C39KMcLZnmZlprf8Kdz/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1PmsfB2-ra_3LQZ2wC0mhQ7n9Esl5YkCu/view?usp=sharing)
 
 ## 📫 How to reach me: 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/janvi-singh-026421258/)

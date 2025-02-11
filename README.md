@@ -16,7 +16,8 @@
 ## Bagdes earned
 ![Postman - Postman API Fundamentals Student Expert - 2024-12-13](https://github.com/user-attachments/assets/9857fbbc-3a73-45c4-8a18-72cc6f6ff17c)
 
-
+## 📈 GitHub Stats
+![Janvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=goko897)](https://github.com/goko897/github-readme-stats)
 
 ## For recruiters:
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()

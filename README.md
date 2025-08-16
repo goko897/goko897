@@ -6,9 +6,9 @@
 </div>
 <br>
     
-- 🌱 I’m currently learning cyberops, blockchain techonology, computer networks, deep learning, generative AI.
-- 👯 I’m looking to collaborate on cryptography, machine learning and deep learning projects.
-- 💬 Always open for discussions on technical, marketing and general awareness topics.
+- 🌱 I’m currently learning cyberops, computer networks, deep learning, generative AI.
+- 👯 I’m looking to collaborate on Cryptography, Machine Learning and Deep Learning projects.
+- 💬 Always open for discussions on Network security, Payments Networks and COmputer Networks.
 - 😄 Pronouns: She/her
 
 <!--
@@ -65,9 +65,6 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
 </p>
-
-## Bagdes earned
-![Postman - Postman API Fundamentals Student Expert - 2024-12-13](https://github.com/user-attachments/assets/9857fbbc-3a73-45c4-8a18-72cc6f6ff17c)
 
 ## 📊 Github Stats (Expand to View)
 
